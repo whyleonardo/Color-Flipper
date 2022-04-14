@@ -5,9 +5,7 @@ const colors = [
   'purple',
   'blue',
   'black',
-  'white',
-  'navyblue',
-  ''
+  'white'
 ]
 const btn = document.getElementById('btn')
 const color = document.querySelector('.color')
